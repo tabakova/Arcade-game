@@ -1,6 +1,6 @@
 # Description
 
-* This is a project of the classic arcade game clone (like a Frogger game) accomplished as a part of Udacity Front-End Nanodegree and uses object-oriented JavaScript.
+* This is project of a classic arcade game clone (like a Frogger game) accomplished as a part of Udacity Front-End Nanodegree and uses object-oriented JavaScript.
 * Game engine, basic art assets and starter code were provided by Udacity
 
 # How to play
