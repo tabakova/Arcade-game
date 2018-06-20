@@ -1,6 +1,9 @@
-frontend-nanodegree-arcade-game
-===============================
+# Description
 
-Students should use this [rubric](https://review.udacity.com/#!/projects/2696458597/rubric) for self-checking their submission. Make sure the functions you write are **object-oriented** - either class functions (like Player and Enemy) or class prototype functions such as Enemy.prototype.checkCollisions, and that the keyword 'this' is used appropriately within your class and class prototype functions to refer to the object the function is called upon. Also be sure that the **readme.md** file is updated with your instructions on both how to 1. Run and 2. Play your arcade game.
+* This is project of a classic arcade game clone (like a Frogger game) accomplished as a part of Udacity Front-End Nanodegree and uses object-oriented JavaScript.
+* Game engine, basic art assets and starter code were provided by Udacity
 
-For detailed instructions on how to get started, check out this [guide](https://docs.google.com/document/d/1v01aScPjSWCCWQLIpFqvg3-vXLH2e8_SZQKC8jNO0Dc/pub?embedded=true).
+# How to play
+* Choose a player using the enter button, then hit space to start the game.
+* To play again press the space button after winning the game or when the game is over or reload the page. 
+* Use arrow keys to move the player.
