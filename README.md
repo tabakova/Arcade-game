@@ -7,3 +7,6 @@
 * Choose a player using the enter button, then hit space to start the game.
 * To play again press the space button after winning the game or when the game is over or reload the page. 
 * Use arrow keys to move the player.
+
+You can play the game by clicking on this link:
+https://tabakova.github.io/Arcade-game/
